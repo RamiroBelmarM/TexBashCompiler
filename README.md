@@ -1,7 +1,7 @@
 # TexCompilerBash
 Compilador para LaTex escrito es bash
 
-como usar
+como usar:
 
 ```console
 $ tex_compiler.sh nombre_archivo.tex
